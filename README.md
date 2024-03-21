@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm  JK Hari</h1>
 <h3 align="center">A passionate full-stack developer from Earth 🌍</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-photo/student-doing-coding-his-computer-setup-with-proper-lighting-night-colorful-pc-table-chair_939033-3657.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/JKHari/JKHari/assets/104263832/f256018b-c0cd-4a14-b945-5578641bd5fd" style="border-radius: 5px;" >
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkhari&label=Profile%20views&color=0e75b6&style=flat" alt="jkhari" /> </p>
