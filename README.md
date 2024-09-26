@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm  JK Hari</h1>
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EEE7E4&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+JK+Hari" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate full-stack developer from Earth 🌍</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/JKHari/JKHari/assets/104263832/f256018b-c0cd-4a14-b945-5578641bd5fd" style="border-radius: 5px;" >
 
