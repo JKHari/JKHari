@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkhari&label=Profile%20views&color=0e75b6&style=flat" alt="jkhari" /> </p>
 
-- 💬 Ask me about **JavaScript , React , Nuxt**
+- 💬 Ask me about **JavaScript , Vue , Nuxt**
 
 - 📫 How to reach me **jkharieee66@gmail.com**
 
